@@ -1,0 +1,7 @@
+// Struct
+HIGHCONTRASTW
+
+// Win32 Api
+DwmSetWindowAttribute
+SystemParametersInfo
+UpdateWindow
